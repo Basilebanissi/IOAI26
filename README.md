@@ -1,6 +1,6 @@
 # Guide de Configuration ML/DL
 
-> Un environnement de travail professionnel pour le Deep Learning en Python, configuré pas à pas.
+> Un environnement de travail pour le Deep Learning en Python, configuré pas à pas.
 
 ---
 
